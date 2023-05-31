@@ -1,0 +1,6 @@
+package_id: dolce.vita
+env: development
+var:
+    SOME_VAR:
+        value: VALUE
+        secure: false
