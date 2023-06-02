@@ -1,4 +1,5 @@
-package_id: dolce.vita
+package_id: testing.deploy
+icon: connect_ext/static/images/icon.png
 env: development
 var:
     SOME_VAR:
