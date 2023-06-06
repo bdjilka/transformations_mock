@@ -1,5 +1,5 @@
 package_id: testing.deploy
-icon: connect_ext/static/images/icon.png
+name: Hello darkness
 env: development
 var:
     SOME_VAR:
