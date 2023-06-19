@@ -1,9 +1,4 @@
 package_id: test.deploy
-icon: connect_ext/static/images/icon.png
-name: Hello darkness
-env: development
-tag: 1.3
 var:
     SOME_VAR:
         value: VALUE
-        secure: false
