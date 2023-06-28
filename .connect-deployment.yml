@@ -1,0 +1,13 @@
+package_id: test.deploy
+tag: 1.4
+icon: connect_ext/static/images/icon.png
+env: development
+name: Hello darkness
+category: Integration
+website: www.capybara.com
+description: Extension description
+overview: README.md
+var:
+    SOME_VAR:
+        value: VALUE
+        secure: true

@@ -1,4 +1,0 @@
-package_id: test.deploy
-var:
-    SOME_VAR:
-        value: VALUE
